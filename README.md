@@ -4,16 +4,50 @@ EOSIO over ETH
 ## Designs
 ### 1. Racing
 #### Concept
-* Cars with BTC, ETH, Paypal, Visa/Mastercard, EOS logo(s) are participating in drag-race. And the max. speed attained is shown in Transactions Per Second (TPS) as a location pop-up after each touches the finish line. The list of max. speed attained is as follows:
+* Cars with BTC, ETH, Paypal, Visa/Mastercard, EOS logo(s) are participating in a drag-race. And the max. speed attained is shown in Transactions Per Second (TPS) as a location pop-up when they touches the maximum TPS. The list of max. speed (in TPS) attained is as follows:
 	- BTC: 5 TPS
 	- ETH: 15 TPS
 	- Paypal: 193 TPS
 	- Visa/Mastercard: 1000 TPS
 	- EOS: 3996 TPS (reached so far with 40% network usage)
-* The car's speed shows the time taken in execution of an activity or a transaction. E.g. Here, BTC car is the slowest, which shows person A transferring token to person B is executed in longest time (approx. 1 hr).
+* The car's speed shows the time taken in execution of each activity or transaction. E.g. Here, BTC car is the slowest, which shows person A transferring token to person B is executed in longest time (approx. 1-2 hr).
 
 #### Tool
 * Powerpoint
+
+## Market
+### Atomichub
+* As it is the most popular marketplace for EOSIO NFTs, that'why chosen for this collection.
+* Schema
+	- Attributes (immutable)
+		+ name:
+		+ img:
+		+ video:
+		+	description:
+		+ usage:
+		+ license:
+		+ disclaimer/warning:
+* Template
+	+ name: Racing of Blockchains
+	+ img: https://gateway.pinata.cloud/ipfs/QmRvtZExSsDcS8Pgz7qY2LffYCFPrBN4FQeprNbkkCm5rt/car_racing.png
+	+ video: QmPzyJhH4vVPhCqkEvLPLxi2cGMJAaUCvXQVCzFCnr5QbZ
+	+	description: 
+```md
+A. Car(s) (or Networks or Chains) with BTC, ETH, Paypal, Visa/Mastercard, EOS logo(s) are participating in a drag-race. And the max. speed attained is shown in Transactions Per Second (TPS) as a location pop-up when they touches the maximum TPS. The list of max. speed (in TPS) attained is as follows:
+	1. BTC: 5 TPS
+	2. ETH: 15 TPS
+	3. Paypal: 193 TPS
+	4. Visa/Mastercard: 1000 TPS
+	5. EOS: 3996 TPS (reached so far with 40% network usage)
+B. The car's speed shows the time taken in execution of each activity or transaction. E.g. Here, BTC car (or network) is the slowest, which shows person A transferring token to person B is executed in longest time (approx. 1-2 hr).
+```
+	+ usage: This can be used as an explainer Video (in .mp4), GIF (in .gif) for newbies to the Blockchain Community. The NFT has got high resolution viewing capability on devices with upto 4K compatibility. This can be viewed on Phone, Tablet, TV, Watch or any devices with upto 4K resolution.
+	+ license: This NFT is for complete usage anywhere and in anyway possible. The Creator is nomore the owner and holds no right over the NFT asset after the first sale/auction. All rights reserved Copyright (c) Current Owner.
+	+ disclaimer/warning: The usage of the NFT can only be done by the Current Owner only. Any commercial usage of this NFT asset is liable to pay 40% profit share to the current owner & previous owners.
+
+## TODO
+* re-upload the img as 'racing_of_blockchains.png'
+
 
 #### Output
 * `eosioovereth_racing.gif`
