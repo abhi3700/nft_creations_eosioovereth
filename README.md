@@ -42,12 +42,10 @@ A. Car(s) (or Networks or Chains) with BTC, ETH, Paypal, Visa/Mastercard, EOS lo
 B. The car's speed shows the time taken in execution of each activity or transaction. E.g. Here, BTC car (or network) is the slowest, which shows person A transferring token to person B is executed in longest time (approx. 1-2 hr).
 ```
 	+ usage: This can be used as an explainer Video (in .mp4), GIF (in .gif) for newbies to the Blockchain Community. The NFT has got high resolution viewing capability on devices with up to 4K compatibility. This can be viewed on Phone, Tablet, TV, Watch or any devices with up to 4K resolution.
-	+ license: This NFT is for complete usage anywhere and in anyway possible. The Creator is no more the owner and holds no ownership right over the NFT asset after the first sale/auction. In fact, the creator shall not be able to use it for commercial purpose after 1st sale/auction. All rights reserved Copyright (c) Current Owner.
-	+ disclaimer/warning: The usage of the NFT can only be done by the owners (creator & secondary owners) only. Any commercial usage of this NFT asset by other party (except creator & secondary owners) is liable to pay 80% profit share which is distributed to the creator (with 50%) & secondary owners (with 50% equally).
+	+ license: This NFT is for complete usage to use, copy, modify, merge, publish, distribute, sublicense, and/or sell. The Creator is no more the owner and holds no ownership right over the NFT asset after the first sale/auction. In fact, the creator shall not be able to use it for any commercial purpose after the 1st sale/auction. All rights reserved Copyright (c) Current Owner.
+	+ disclaimer/warning: The usage of the NFT can only be done by the owners only - creator & secondary owners. Any commercial usage of this NFT asset by other party (except creator & secondary owners) is liable to pay 80% of total income earned which is then distributed to the creator (with 50% share) & secondary owners (with 50% equal shares).
 
 ## TODO
-* re-upload the img as 'racing_of_blockchains.png'
-* re-upload the video as 'racing_of_blockchains.mp4'
 
 
 #### Output
